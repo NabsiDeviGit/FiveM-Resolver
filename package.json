@@ -3,10 +3,18 @@
   "version": "1.0.1",
   "description": "Simple cfx.re link resolver for FiveM.",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabsiDeviGit/FiveM-Resolver.git"
+  },
   "keywords": [
     "FiveM",
     "cfx.re"
   ],
+  "bugs": {
+    "url": "https://github.com/NabsiDeviGit/FiveM-Resolver/issues"
+  },
+  "homepage": "https://github.com/NabsiDeviGit/FiveM-Resolver#readme",
   "author": "NabsiDevi",
   "license": "UNLICENSED",
   "bin": {
