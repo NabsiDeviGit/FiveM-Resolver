@@ -1,0 +1,19 @@
+{
+  "name": "fivem-resolver",
+  "version": "1.0.1",
+  "description": "Simple cfx.re link resolver for FiveM.",
+  "main": "src/index.js",
+  "keywords": [
+    "FiveM",
+    "cfx.re"
+  ],
+  "author": "NabsiDevi",
+  "license": "UNLICENSED",
+  "bin": {
+    "fivem-resolver": "src/cli/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "yargs": "^17.0.1"
+  }
+}
