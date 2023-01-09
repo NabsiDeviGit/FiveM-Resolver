@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/NabsiDeviGit/FiveM-Resolver#readme",
   "author": "NabsiDevi",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bin": {
     "fivem-resolver": "src/cli/index.js"
   },
