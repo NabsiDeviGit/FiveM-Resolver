@@ -1,4 +1,4 @@
-const CFXResolver = require('./CFXResolver');
+const CFXResolver = require('../CFXResolver');
 
 async function main() {
 
