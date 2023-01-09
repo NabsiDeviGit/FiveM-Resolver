@@ -9,7 +9,7 @@ const argv = yargs.options(
         {
             alias: 'token',
             default: '',
-            describe: 'cfx.re token or URL to resolve.',
+            describe: 'cfx.re token to resolve.',
             type: 'string',
         }
     }
