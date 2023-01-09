@@ -82,3 +82,7 @@ Example Output:
   address: [ '45.131.108.89', '30120' ]
 }
 ```
+
+#LICENSE
+
+This project is licensed under the `MIT` license.
