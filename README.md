@@ -17,7 +17,7 @@ npm -g i fivem-resolver
 
 then we can run it by typing this command to our terminal.
 ```
-fivem-resolver -t zbbj7d
+fivem-resolver -t zbbj7d or you can use the full url eg: https://cfx.re/join/zbbj7d
 ```
 
 ---

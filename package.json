@@ -1,6 +1,6 @@
 {
   "name": "fivem-resolver",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple cfx.re link resolver for FiveM.",
   "main": "src/index.js",
   "repository": {

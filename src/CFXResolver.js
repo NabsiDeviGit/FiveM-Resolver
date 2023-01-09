@@ -21,7 +21,13 @@ module.exports = class CFXResolver {
 
         try {
 
-            let request = await fetch(`https://cfx.re/join/${this.token}`);
+            let request;
+            // Add support for full links. (It's handy)
+            if (!this.token.contains('https://cfx.re/join/'))
+                request = await fetch(`https://cfx.re/join/${this.token}`);
+            else
+                request = await fetch(`${this.token}`);
+            
             var url = await request.headers.get('x-citizenfx-url');
 
         } catch (err) {
